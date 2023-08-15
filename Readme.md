@@ -1,4 +1,4 @@
 <h1>Repositorio Desarrollo de software</h1>
 
-**FEATURES**
+<h2> FEATURES </h2>
 Feature1 -> Ejercicios GIT
