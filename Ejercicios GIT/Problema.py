@@ -18,7 +18,7 @@ def suma(v1, v2):
 def resta(v1, v2):
     resultado = v1-v2
 
-    print(f"El resultado de la resta es: {v1}")
+    print(f"El resultado de la resta es: {resultado}")
 
 def multiplicacion(v1,v2):
     resultado = v1*v2
@@ -26,7 +26,7 @@ def multiplicacion(v1,v2):
     print(f"El resultado de la multiplicacion es: {resultado}")
 
 def division(v1,v2):
-    resultado = v1/0
+    resultado = v1/v2
 
     print(f"El resultado de la multiplicacion es: {resultado}")
 
